@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <!-- black background -->
+            <solid android:color="@color/lightestblue" />
+        </shape>
+    </item>
+    <!-- launcher icon -->
+    <item android:drawable="@drawable/real" android:height="100dp" android:width="100dp" android:gravity="center" />
+</layer-list>

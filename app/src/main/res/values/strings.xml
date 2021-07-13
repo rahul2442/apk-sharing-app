@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Share Send</string>
+    <string name="app_b">%1$.2f B</string>
+    <string name="app_kb">%1$.2f KB</string>
+    <string name="app_mb">%1$.2f MB</string>
+    <string name="app_gb">%1$.2f GB</string>
+</resources>
